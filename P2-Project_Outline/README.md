@@ -7,12 +7,33 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We are human. We have two features:love and share.
+We share feelings--facebook raise.
+We share maps--google maps raise.
+We share car seats--Uber and Lyft raise.
+We share concret product-- Amazon raise.
+Today we will share abstract product(service)-- Misisipi is raising.
+I will build a platform for abstract product(service)
 ### Features
-Include Features here
+User register/login/logout: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+Create/delete Wanted help events: Users will be able to create/delete new wanted help events when logged in. New events will appear in the user’s profile.
+Search: Users will be able to search for wanted help events containing given text.
+Link to goole map: The wanted help events location will link to goole map.
+Get fun humors: For fun, users will get fun humors from the webpage.
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf templates
+HTML
+CSS
+Google map API
+Webpage API
+JavaScript
 ### What I'll Have to Learn
-Include what you will need to learn here
+Google map API
+Webpage API
+Use JavaScript in Java
 ### Project Tracker
 Link to your Trello board here
